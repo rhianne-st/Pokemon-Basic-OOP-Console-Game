@@ -21,8 +21,8 @@ PROJECT REQUIREMENT: Demonstrate the ability of applying the OOP knowledge in th
 
 ## Folder Structure
 pokemon-basic-oop-console-game/
-<br>├── src/ # Java source files
-<br>├── data/ # Text files for input/output
+<br>├── src/    # Java source files
+<br>├── data/   # Text files for input/output
 <br>├── .gitignore
 <br>├── LICENSE
 <br>└── README.md
