@@ -20,7 +20,7 @@ PROJECT REQUIREMENT: Demonstrate the ability of applying the OOP knowledge in th
 - Basic arithmetic logic
 
 ## Folder Structure
-pokemon-oop-console-game/
+Pokemon-Basic-OOP-Console-Game/
 <br>├── src/ # Java source files
 <br>├── data/ # Text files for input/output
 <br>├── .gitignore
